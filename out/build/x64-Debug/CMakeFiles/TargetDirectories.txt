@@ -1,0 +1,14 @@
+D:/Wspace/WebServer/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Wspace/WebServer/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/Wspace/WebServer/out/build/x64-Debug/WebServer/CMakeFiles/WebServer.dir
+D:/Wspace/WebServer/out/build/x64-Debug/WebServer/CMakeFiles/edit_cache.dir
+D:/Wspace/WebServer/out/build/x64-Debug/WebServer/CMakeFiles/rebuild_cache.dir
+D:/Wspace/WebServer/out/build/x64-Debug/WebServer/base/CMakeFiles/rebuild_cache.dir
+D:/Wspace/WebServer/out/build/x64-Debug/WebServer/base/CMakeFiles/libserver_base.dir
+D:/Wspace/WebServer/out/build/x64-Debug/WebServer/base/CMakeFiles/edit_cache.dir
+D:/Wspace/WebServer/out/build/x64-Debug/WebServer/base/tests/CMakeFiles/LoggingTest.dir
+D:/Wspace/WebServer/out/build/x64-Debug/WebServer/base/tests/CMakeFiles/edit_cache.dir
+D:/Wspace/WebServer/out/build/x64-Debug/WebServer/base/tests/CMakeFiles/rebuild_cache.dir
+D:/Wspace/WebServer/out/build/x64-Debug/WebServer/tests/CMakeFiles/HTTPClient.dir
+D:/Wspace/WebServer/out/build/x64-Debug/WebServer/tests/CMakeFiles/edit_cache.dir
+D:/Wspace/WebServer/out/build/x64-Debug/WebServer/tests/CMakeFiles/rebuild_cache.dir
